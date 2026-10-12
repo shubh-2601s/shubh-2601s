@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:020617,50:1d4ed8,100:7c3aed&text=SHUBHAM%20S&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Full%20Stack%20%E2%80%A2%20Applied%20AI&descSize=20&descAlignY=60&animation=twinkling" width="100%" alt="Shubham S — Software Engineer, Full Stack, Applied AI" />
+<img src="https://capsule-render.vercel.app/api?type=waving&section=header&height=240&color=0:020617,50:1d4ed8,100:7c3aed&text=SHUBHAM%20S&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20%7C%20Applied%20AI&descSize=20&descAlignY=58&animation=twinkling" width="100%" alt="Shubham S — Software Engineer, Full Stack, Applied AI" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=60A5FA&center=true&vCenter=true&width=720&height=50&lines=Building+secure%2C+scalable+full-stack+products;Turning+AI+ideas+into+real-world+systems;National+hackathon+winner+%7C+4+patent+applications;Engineer+with+discipline.+Build+with+purpose." alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=60A5FA&center=true&vCenter=true&width=720&height=50&lines=Building+secure+full-stack+products;Turning+AI+ideas+into+real-world+systems;National+hackathon+winner+and+patent+co-inventor;Engineer+with+discipline.+Build+with+purpose." alt="Typing animation" />
 </a>
 
 <br/>
@@ -19,7 +19,6 @@
 <img src="https://img.shields.io/badge/Hackathon%20Wins-5%2B-f59e0b?style=flat-square" alt="Hackathon wins" />
 <img src="https://img.shields.io/badge/Patent%20Applications-4-8b5cf6?style=flat-square" alt="Patents" />
 <img src="https://img.shields.io/badge/Location-Chennai%2C%20India-06b6d4?style=flat-square" alt="Location" />
-<img src="https://komarev.com/ghpvc/?username=shubh-2601s&label=Profile%20Views&color=1d4ed8&style=flat-square" alt="Profile views" />
 
 </div>
 
