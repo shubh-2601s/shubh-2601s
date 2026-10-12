@@ -1,227 +1,137 @@
-::: {align="center"}
-# Hi, I'm Shubham S 👋
+<div align="center">
 
-### Software Engineer · Full Stack Developer · AI/ML Enthusiast
+<img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:0f172a,100:1d4ed8&text=SHUBHAM%20S&fontSize=48&fontColor=ffffff&fontAlignY=42&desc=Software%20Engineer%20%7C%20Full%20Stack%20%7C%20Applied%20AI&descSize=16&descAlignY=68&animation=fadeIn" width="100%" alt="Shubham S — Software Engineer, Full Stack Developer and Applied AI" />
 
-Building secure software, intelligent applications, and products that
-solve real-world problems.
+<p>
+  <a href="https://github.com/shubh-2601s">
+    <img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+  </a>
+  <a href="https://www.linkedin.com/in/shubham-s-14ba6a283/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
+  </a>
+  <a href="https://leetcode.com/u/shubh_codess/">
+    <img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode profile" />
+  </a>
+  <a href="mailto:10221shubham.s@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Shubham" />
+  </a>
+</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-shubh--2601s-181717?style=for-the-badge&logo=github)](https://github.com/shubh-2601s)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shubham-s-14ba6a283/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/shubh_codess/)
+I build full-stack products and practical AI systems with a focus on clean engineering, security, and real-world impact.
+📍 Chennai, India   ·   🎓 B.Tech Computer Science, Vel Tech (2023–2027)
+</div>
 
-📍 Chennai, Tamil Nadu, India · 🎓 B.Tech CSE, Vel Tech · Class of 2027
-:::
+whoami — About Me
+I'm Shubham S, a Computer Science undergraduate at Vel Tech R&D Institute of Science and Technology. I enjoy turning complex ideas into useful software—from full-stack applications and backend services to AI-powered tools and security-focused systems.
+- 💻 Interested in Software Engineering, Backend Development, and Full-Stack Engineering
+- 🤖 Exploring Machine Learning, Computer Vision, LLM applications, and RAG
+- 🛡️ Building AegisIQ, a security intelligence platform for code analysis and investigation
+- 🧑‍💼 Former AI Engineer Intern at Siter Academy (remote, Norway)
+- 🏆 National-level hackathon winner and co-inventor on four published patent applications
+- 📚 Focused on strong fundamentals: DSA, OOP, DBMS, Operating Systems, and Computer Networks
+Current focus: engineering secure, maintainable applications and learning how to design systems that scale.
 
-------------------------------------------------------------------------
+Technical Toolkit
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Languages</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=java,python,c,js,ts&theme=dark" alt="Java, Python, C, JavaScript and TypeScript" />
+    </td>
+    <td width="50%" valign="top">
+      <strong>Frontend</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=react,angular,html,css,tailwind&theme=dark" alt="React, Angular, HTML, CSS and Tailwind CSS" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Backend & APIs</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi&theme=dark" alt="Spring Boot, Node.js, Express and FastAPI" />
+    </td>
+    <td width="50%" valign="top">
+      <strong>Databases & Infrastructure</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,docker,linux,git,github,postman&theme=dark" alt="MySQL, MongoDB, PostgreSQL, Docker, Linux, Git, GitHub and Postman" />
+    </td>
+  </tr>
+</table>
 
-## 👨‍💻 About Me
+AI / Data: scikit-learn · Pandas · NumPy · OpenCV · Ollama · RAG concepts
+Core CS: Data Structures & Algorithms · OOP · DBMS · Operating Systems · Computer Networks · REST API design
+Selected Projects
+01 · AegisIQ — Security Intelligence Platform
+Java 21 · Spring Boot · React · TypeScript · PostgreSQL · Python · FastAPI · Docker
+A security-focused platform designed to analyze code and security signals, correlate findings, prioritize risk, and support investigations with AI grounded in verified results.
+- AST- and pattern-based detection for SQL injection, XSS, command injection, path traversal, and hardcoded secrets.
+- Risk prioritization and graph-based relationships between entry points, APIs, services, and databases.
+- AI-assisted investigation using retrieval-augmented generation (RAG).
+- Defensive archive processing designed to mitigate risks such as Zip Slip and oversized archives.
+Repository: Explore my GitHub repositories
+Replace this link with the direct AegisIQ repository URL when it is public.
+02 · Quizora — MERN Online Assessment Platform
+MongoDB · Express.js · React · Node.js
+A full-stack quiz platform for conducting timed assessments and reviewing performance.
+- JWT authentication and role-based access control.
+- Timed assessments, leaderboards, and performance analytics.
+- Responsive interface for an online assessment workflow.
+Live demo · Browse GitHub repositories
+03 · AI-Powered Farmer Agent — Hackathon Winner
+Python · OpenCV · Ollama · LLMs
+An AI-enabled agricultural assistant concept combining computer vision and language-model capabilities to support farming decisions.
+- Crop recommendation and irrigation-planning assistance.
+- Plant-disease detection using computer vision.
+- Built around practical AI use cases for agriculture.
+🏆 1st Prize — SIMATS Agentic AI National Hackathon, 2025
+04 · CodeSec Scanner — Static Code Security Analyzer
+Java · Spring Boot · Angular · REST APIs
+A full-stack tool for scanning source code and presenting security findings in a dashboard.
+- Automated static-analysis workflow and vulnerability reporting.
+- REST API backend using Spring Boot.
+- Angular interface for scan management and result visualization.
+Experience
+AI Engineer Intern · Siter Academy
+Remote, Norway · July 2025 – October 2025
+- Contributed to AI-powered solutions for document intelligence, analytics, and workflow automation.
+- Worked on AI integration and intelligent document-processing workflows for the MedPal platform.
+- Collaborated with a cross-functional team using Agile practices.
+Achievements & Recognition
+Achievement	Recognition
+Agentic AI National Hackathon, SIMATS (2025)	🥇 1st Prize
+National Hackathon, Sri Manakula Vinayakar Engineering College (2024)	🥇 1st Prize
+BITS Pilani National Hackathon (2025)	AIR 37
+IIT Bhubaneswar Hackathon (2025)	Top 20 Finalist
+Smart India Hackathon (2024 & 2025)	Top 50 Finalist
+Aptimind (2025)	🥇 1st Prize
+Scriptura (2026)	🥇 1st Prize
+Published Indian patent applications	4 · Co-inventor
 
-I'm a Computer Science undergraduate at **Vel Tech R&D Institute of
-Science and Technology**, focused on building reliable full-stack
-applications and practical AI-powered systems.
 
--   💼 Former **AI Engineer Intern at Siter Academy** (remote, Norway).
--   🛡️ Building **AegisIQ**, a security intelligence platform combining
-    deterministic code analysis with AI-assisted investigation.
--   🌐 Develop full-stack applications using **React, TypeScript,
-    Node.js, and Spring Boot**.
--   🤖 Explore computer vision, machine learning, LLM applications, and
-    RAG-based systems.
--   🏆 National-level hackathon winner, with additional placements in
-    major student innovation competitions.
--   📜 Co-inventor on **four published Indian patent applications**.
--   🧠 Strengthening my foundations in DSA, OOP, DBMS, operating
-    systems, and computer networks.
+Patent Applications
+Co-inventor on four published Indian patent applications:
+- Optimized DIW Method for Bone Scaffolds — 202541118540 A
+- Aerial Imaging for Soil-Moisture Detection — 202541070195 A
+- Edge-Based Intelligent Traffic Management — 202541103832 A
+- Secure Randomness from Industrial Waste Heat — 202541129470 A
+Education
+B.Tech, Computer Science and Engineering
+Vel Tech R&D Institute of Science and Technology, Chennai
+2023–2027 · CGPA: 9.79/10
+Relevant coursework: Data Structures & Algorithms, Object-Oriented Programming, DBMS, Operating Systems, Computer Networks, and Machine Learning.
+GitHub Overview
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shubh-2601s&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubh-2601s&layout=compact&hide_border=true&theme=transparent" alt="Most used programming languages" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=shubh-2601s&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
+</div>
 
-I'm interested in **software engineering, backend development,
-full-stack engineering, and applied AI**---especially projects where
-good architecture and measurable real-world impact matter.
+<sub>GitHub statistics are supplied by third-party services and may be delayed or unavailable. Language charts reflect repository contents, not necessarily overall proficiency.</sub>
+Let's Connect
+I'm open to opportunities and collaborations in software engineering, backend development, full-stack development, and applied AI/ML.
+- Email: 10221shubham.s@gmail.com
+- LinkedIn: shubham-s-14ba6a283
+- GitHub: shubh-2601s
+- LeetCode: shubh_codess
+<div align="center">
 
-## 🧰 Tech Stack
-
-### Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-### Frontend & Backend
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Tailwind
-CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Spring
-Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![REST
-APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square)
-
-### Data, AI & Developer Tools
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-## 🚀 Featured Projects
-
-### 🛡️ AegisIQ --- Security Intelligence Platform
-
-A modular security platform designed to analyze code and security
-signals, correlate findings, prioritize risk, and support investigations
-with AI grounded in verified results.
-
-**Highlights** - AST- and pattern-based detection for issues such as SQL
-injection, XSS, command injection, path traversal, and hardcoded
-secrets. - Risk prioritization and graph-based relationships between
-entry points, APIs, services, and databases. - AI-assisted investigation
-using retrieval-augmented generation (RAG). - Defensive archive
-processing and security-focused backend design.
-
-**Stack:** Java 21 · Spring Boot · React · TypeScript · PostgreSQL ·
-Python · FastAPI · Docker
-
-> Add your repository URL to the project title or here:
-> `https://github.com/shubh-2601s/<aegisiq-repository>`
-
-### 🧠 Quizora --- MERN Online Assessment Platform
-
-A full-stack assessment application with secure authentication and tools
-for conducting timed quizzes and reviewing performance.
-
--   JWT-based authentication and role-based access.
--   Timed assessments, leaderboards, and performance analytics.
--   Responsive user experience built around online assessments.
-
-**Stack:** MongoDB · Express.js · React · Node.js
-
--   [Live Demo](https://quizora-6mnz.vercel.app/)
--   [Find the source repository on
-    GitHub](https://github.com/shubh-2601s)
-
-### 🌱 AI-Powered Farmer Agent --- National Hackathon Winner
-
-An agricultural assistant concept combining computer vision and
-language-model capabilities to support farming decisions.
-
--   Crop recommendation and irrigation-planning assistance.
--   Plant-disease detection using computer vision.
--   Built with Python, OpenCV, and Ollama-based LLM tooling.
-
-**Recognition:** 1st Prize --- SIMATS Agentic AI National Hackathon,
-2025.
-
-### 🔍 CodeSec Scanner --- Static Code Security Analyzer
-
-A full-stack application for scanning source code and presenting
-security findings through a dashboard.
-
--   Automated static analysis workflow and vulnerability reporting.
--   REST APIs implemented with Spring Boot.
--   Angular-based interface for scan management and result
-    visualization.
-
-**Stack:** Java · Spring Boot · Angular · REST APIs
-
-*More projects include a project-management portal, urban incident
-detection, smart soil monitoring, and a recruitment platform. Pin your
-strongest public repositories below to make them easy to explore.*
-
-## 💼 Experience & Leadership
-
-**AI Engineer Intern --- Siter Academy** · Remote, Norway\
-*July 2025 -- October 2025* - Worked on AI-powered solutions for
-document intelligence, analytics, and workflow automation. - Contributed
-to AI integration and intelligent document-processing workflows for the
-MedPal platform. - Collaborated remotely with a cross-functional team
-using Agile practices.
-
-**IEEE --- Vel Tech Chapter** · Member & Organizer - Contributed to
-technical activities, workshops, seminars, and hackathon initiatives.
-
-**NEP Saarthi Initiative** · Member - Participated in education-focused
-outreach and student-development activities.
-
-## 🏆 Selected Achievements
-
--   🥇 **1st Prize** --- SIMATS Agentic AI National Hackathon, 2025.
--   🥇 **1st Prize** --- National Hackathon, Sri Manakula Vinayakar
-    Engineering College, 2024.
--   🇮🇳 **Top 50 Finalist** --- Smart India Hackathon, 2024 and 2025.
--   🚀 **AIR 37** --- BITS Pilani National Hackathon, 2025.
--   🎯 **Top 20 Finalist** --- IIT Bhubaneswar Hackathon, 2025.
--   🏅 **1st Prize** --- Aptimind, 2025.
--   ✍️ **1st Prize** --- Scriptura, 2026.
--   📜 **Four published Indian patent applications** as a co-inventor.
-
-## 📜 Patent Applications
-
-Co-inventor on four published Indian patent applications covering
-different application areas:
-
--   **Biomedical engineering:** Optimized DIW method for bone scaffolds
-    --- `202541118540 A`
--   **Precision agriculture:** Aerial imaging for soil-moisture
-    detection --- `202541070195 A`
--   **Intelligent transportation:** Edge-based intelligent traffic
-    management --- `202541103832 A`
--   **Cybersecurity:** Secure randomness from industrial waste heat ---
-    `202541129470 A`
-
-For formal or research use, verify application details and publication
-records through the official Indian Patent Office database.
-
-## 🎓 Education
-
-**B.Tech --- Computer Science and Engineering**\
-Vel Tech R&D Institute of Science and Technology, Chennai\
-**2023 -- 2027** · **CGPA: 9.79/10**
-
-Relevant coursework: Data Structures & Algorithms, Object-Oriented
-Programming, DBMS, Operating Systems, Computer Networks, and Machine
-Learning.
-
-## 📈 GitHub Activity
-
-::: {align="center"}
-`<img height="165" src="https://github-readme-stats.vercel.app/api?username=shubh-2601s&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub statistics for Shubham" />`{=html}
-`<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubh-2601s&layout=compact&hide_border=true" alt="Most used languages on GitHub" />`{=html}
-
-`<img src="https://streak-stats.demolab.com?user=shubh-2601s&hide_border=true" alt="GitHub contribution streak" />`{=html}
-:::
-
-*These cards are generated by third-party services and may occasionally
-be unavailable or display cached data.*
-
-## 🤝 Let's Connect
-
-I'm open to opportunities and collaborations in **software engineering,
-full-stack development, backend engineering, and applied AI/ML**.
-
--   📧 Email: `10221shubham.s@gmail.com`
--   💼 [LinkedIn](https://www.linkedin.com/in/shubham-s-14ba6a283/)
--   💻 [GitHub](https://github.com/shubh-2601s)
--   🧩 [LeetCode](https://leetcode.com/u/shubh_codess/)
--   🌐 [Portfolio](#)
-    `<!-- Replace # with your portfolio URL -->`{=html}
-
-------------------------------------------------------------------------
-
-::: {align="center"}
-**"Build with purpose. Engineer with discipline. Keep learning."**
-
-⭐ If something here interests you, explore my repositories and feel
-free to connect!
-:::
-
+Build with purpose. Engineer with discipline. Keep learning.
+</div>
